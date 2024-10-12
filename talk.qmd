@@ -1,9 +1,9 @@
 ---
-title: "Talk"
+title: "Presentation"
 ---
 
-I have given two talks for my researches previously. The detailed information can be found below.
+I have given two presentations for my researches previously. The detailed information can be found below.
 
 ## A Comparison between Global and Multiple Testing Procedures
 
-## A Comparison between Global and Multiple Testing Procedures
+## Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness

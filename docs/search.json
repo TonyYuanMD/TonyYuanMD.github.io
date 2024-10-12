@@ -1,37 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "talk.html",
+    "href": "talk.html",
+    "title": "Presentation",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\nThis is me (probably?)"
+    "text": "I have given two presentations for my researches previously. The detailed information can be found below."
+  },
+  {
+    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
+    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
+    "title": "Presentation",
+    "section": "A Comparison between Global and Multiple Testing Procedures",
+    "text": "A Comparison between Global and Multiple Testing Procedures"
+  },
+  {
+    "objectID": "talk.html#bayesian-data-analysis-for-impact-of-weather-conditions-on-malaria-prevention-effectiveness",
+    "href": "talk.html#bayesian-data-analysis-for-impact-of-weather-conditions-on-malaria-prevention-effectiveness",
+    "title": "Presentation",
+    "section": "Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness",
+    "text": "Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Myself",
     "section": "",
-    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like."
-  },
-  {
-    "objectID": "talk.html",
-    "href": "talk.html",
-    "title": "Talk",
-    "section": "",
-    "text": "I have given two talks for my researches previously. The detailed information can be found below."
-  },
-  {
-    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
-    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
-    "title": "Talk",
-    "section": "A Comparison between Global and Multiple Testing Procedures",
-    "text": "A Comparison between Global and Multiple Testing Procedures"
-  },
-  {
-    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures-1",
-    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures-1",
-    "title": "Talk",
-    "section": "A Comparison between Global and Multiple Testing Procedures",
-    "text": "A Comparison between Global and Multiple Testing Procedures"
+    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like. I finished my undergrad at the University of Nottingham, with a Bachelor’s degree in Honors Statistics. And I’m currently a master student in Applied Statistics at the University of Michigan. Here is the link to my CV."
   }
 ]

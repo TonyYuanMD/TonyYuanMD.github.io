@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   render:
-    - about.qmd
     - index.qmd
     - talk.qmd
 
@@ -14,21 +13,21 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - talks.qmd
-      - about.qmd
+      - text: "Presentation"
+        href: talk.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/hongda-yuan
       - icon: github
         menu:
           - text: Source Code
-            href:  https://code.com
-          - text: Report a Bug
-            href:  https://bugs.com
+            href:  https://github.com/TonyYuanMD/TonyYuanMD.github.io
+          - text: Other Repos
+            href:  https://github.com/TonyYuanMD?tab=repositories
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
     css: styles.css
     toc: true
 

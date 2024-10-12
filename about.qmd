@@ -3,10 +3,5 @@ title: "About"
 image: image/MPHOTO_StatsHds24_215.JPG
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
 
-![This is me (probably?)](/image/MPHOTO_StatsHds24_215.JPG "a title")

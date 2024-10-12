@@ -1,6 +1,5 @@
 ---
 title: "About Myself"
-
 ---
-
-Hi welcome to my website! I'm Hongda Yuan, or Tony if you like. 
+<img style="float:left; width:30%; margin-right:40px" src="image/MPHOTO_StatsHds24_215.JPG" >
+Hi welcome to my website! I'm Hongda Yuan, or **Tony** if you like. I finished my undergrad at the University of Nottingham, with a Bachelor's degree in Honors Statistics. And I'm currently a master student in Applied Statistics at the University of Michigan. Here is the link to my CV.
