@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\nThis is me (probably?)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Myself",
     "section": "",
     "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "talk.html",

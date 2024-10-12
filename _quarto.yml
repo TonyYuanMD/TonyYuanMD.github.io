@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - about.qmd
+    - index.qmd
+    - talk.qmd
 
 website:
   title: "Hondga Yuan"
@@ -14,7 +18,7 @@ website:
       - about.qmd
     tools:
       - icon: linkedin
-        href: www.linkedin.com/in/hongda-yuan
+        href: https://www.linkedin.com/in/hongda-yuan
       - icon: github
         menu:
           - text: Source Code
