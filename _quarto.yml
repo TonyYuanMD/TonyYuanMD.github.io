@@ -11,6 +11,15 @@ website:
         href: index.qmd
       - talks.qmd
       - about.qmd
+    tools:
+      - icon: linkedin
+        href: www.linkedin.com/in/hongda-yuan
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
 
 format:
   html:
