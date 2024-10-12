@@ -1,5 +1,6 @@
 ---
 title: "About"
+image: image/MPHOTO_StatsHds24_215.JPG
 ---
 
 About this site
