@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Hondga Yuan"
-  background: primary
-    search: true
+  search: true
+  navbar:
+    background: primary
     left:
       - text: "Home"
         href: index.qmd

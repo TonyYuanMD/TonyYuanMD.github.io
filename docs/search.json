@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TonyYuanMD.github.io",
+    "title": "About Myself",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talk.html",
+    "href": "talk.html",
+    "title": "Talk",
+    "section": "",
+    "text": "I have given two talks for my researches previously. The detailed information can be found below."
+  },
+  {
+    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
+    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
+    "title": "Talk",
+    "section": "A Comparison between Global and Multiple Testing Procedures",
+    "text": "A Comparison between Global and Multiple Testing Procedures"
+  },
+  {
+    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures-1",
+    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures-1",
+    "title": "Talk",
+    "section": "A Comparison between Global and Multiple Testing Procedures",
+    "text": "A Comparison between Global and Multiple Testing Procedures"
   }
 ]
