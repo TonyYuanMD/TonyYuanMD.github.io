@@ -4,10 +4,12 @@ project:
 
 website:
   title: "Hondga Yuan"
-  navbar:
+  background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        href: index.qmd
+      - talks.qmd
       - about.qmd
 
 format:
