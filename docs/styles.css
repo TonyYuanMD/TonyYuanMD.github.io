@@ -1,1 +1,60 @@
 /* css styles */
+body {
+    font-family: Arial, sans-serif; /* You can change this to any font family you like */
+    font-size: 16px; /* Base font size */
+    line-height: 1.6;
+}
+
+/* Heading sizes */
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #444;
+}
+
+h3 {
+    font-size: 1.25rem;
+    color: #555;
+}
+
+/* Styling buttons */
+.btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Card styling (for collapsible presentations) */
+.card {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+/* Customize text in each section */
+p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Customize link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;

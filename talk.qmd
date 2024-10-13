@@ -2,8 +2,38 @@
 title: "Presentation"
 ---
 
-I have given two presentations for my researches previously. The detailed information can be found below.
+Here are some of my recent projects and presentations:
 
-## A Comparison between Global and Multiple Testing Procedures
+### A Comparison between Global and Multiple Testing Procedures
 
-## Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness
+**Description**: Compare global testing procedure inspired by clinicians, under the context of multiple and sequential testing. The objects of comparison include t-test with Bonferroni's correction, Wald Z test from linear mixed effects model and newly developed bivariate Gaussian quantile cut-off test.
+
+**Tools**: R, HPC
+
+<a class="btn btn-secondary" data-bs-toggle="collapse" href="#collapsePresentation1" role="button" aria-expanded="false" aria-controls="collapsePresentation1">
+    View Presentation
+</a>
+
+<div class="collapse" id="collapsePresentation1">
+  <div class="card card-body">
+    <!-- Embed or link your presentation (e.g., PDF or slides) here -->
+    <iframe src="/files/Summer_Research_Poster_v3.pdf" style="width:100%; height:400px;"></iframe>
+  </div>
+</div>
+
+### Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness
+
+**Description**: Analyze the impact of weather conditions on malaria-prevention efficacy. Bayesian hierarchical modelling is involved for identifying potential confounding factors from weather conditions.
+
+**Tools**: R, Stan
+
+<a class="btn btn-outline-secondary" data-bs-toggle="collapse" href="#collapsePresentation2" role="button" aria-expanded="false" aria-controls="collapsePresentation2">
+    View Presentation
+</a>
+
+<div class="collapse" id="collapsePresentation2">
+  <div class="card card-body">
+    <!-- Embed or link your presentation (e.g., PDF or slides) here -->
+    <iframe src="files/Presentation Hongda Yuan.pptx" style="width:100%; height:400px;"></iframe>
+  </div>
+</div>

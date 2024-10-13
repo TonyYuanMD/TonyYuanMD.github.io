@@ -1,5 +1,28 @@
 ---
 title: "About Myself"
 ---
-<img style="float:left; width:30%; margin-right:40px" src="image/MPHOTO_StatsHds24_215.JPG" >
-Hi welcome to my website! I'm Hongda Yuan, or **Tony** if you like. I finished my undergrad at the University of Nottingham, with a Bachelor's degree in Honors Statistics. And I'm currently a master student in Applied Statistics at the University of Michigan. Here is the link to my CV.
+
+## Personal Brief
+
+<img style="float:left; width:30%; margin-right:40px" src="image/MPHOTO_StatsHds24_215.JPG" alt="Profile Photo">
+Hi welcome to my website! I'm **Hongda Yuan**, or **Tony** if you like. I finished my undergrad at the University of Nottingham, with a Bachelor's degree in Honors Statistics. And I'm currently a master student in Applied Statistics at the University of Michigan.
+
+You can find my CV here.
+<a href="files/CV_Hongda_Yuan_10112024.pdf" target="_blank" type="button" class="btn btn-outline-secondary btn-sm">Download My CV</a>
+<div style="clear: both;"></div>
+
+## Academic Interests
+I'm attracted to computational statistics and data science in general, to be more specific, my academic interest include:
+
+- Statistical Learning (Gaussian Process, Kernel Methods)
+- Biostatistics (Experiment Design, Power Analysis)
+- Bayesian Modelling
+
+## Other Interests
+I'm also interested in Phonetics, Linguistics and football/soccer(?). I can speak:
+
+- English
+- Spanish
+- German
+- Madarin
+- Cantonese

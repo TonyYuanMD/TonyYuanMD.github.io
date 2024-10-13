@@ -1,30 +1,44 @@
 [
   {
-    "objectID": "talk.html",
-    "href": "talk.html",
-    "title": "Presentation",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "I have given two presentations for my researches previously. The detailed information can be found below."
-  },
-  {
-    "objectID": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
-    "href": "talk.html#a-comparison-between-global-and-multiple-testing-procedures",
-    "title": "Presentation",
-    "section": "A Comparison between Global and Multiple Testing Procedures",
-    "text": "A Comparison between Global and Multiple Testing Procedures"
-  },
-  {
-    "objectID": "talk.html#bayesian-data-analysis-for-impact-of-weather-conditions-on-malaria-prevention-effectiveness",
-    "href": "talk.html#bayesian-data-analysis-for-impact-of-weather-conditions-on-malaria-prevention-effectiveness",
-    "title": "Presentation",
-    "section": "Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness",
-    "text": "Bayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness"
+    "text": "Feel free to reach out to me via the following channels:\n\nWork Email: yhongda@umich.edu\n\nI’m open to collaborations, job opportunities, or just chatting about data science and statistics!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Myself",
     "section": "",
-    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like. I finished my undergrad at the University of Nottingham, with a Bachelor’s degree in Honors Statistics. And I’m currently a master student in Applied Statistics at the University of Michigan. Here is the link to my CV."
+    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like. I finished my undergrad at the University of Nottingham, with a Bachelor’s degree in Honors Statistics. And I’m currently a master student in Applied Statistics at the University of Michigan.\nYou can find my CV here. Download My CV"
+  },
+  {
+    "objectID": "index.html#personal-brief",
+    "href": "index.html#personal-brief",
+    "title": "About Myself",
+    "section": "",
+    "text": "Hi welcome to my website! I’m Hongda Yuan, or Tony if you like. I finished my undergrad at the University of Nottingham, with a Bachelor’s degree in Honors Statistics. And I’m currently a master student in Applied Statistics at the University of Michigan.\nYou can find my CV here. Download My CV"
+  },
+  {
+    "objectID": "index.html#academic-interests",
+    "href": "index.html#academic-interests",
+    "title": "About Myself",
+    "section": "Academic Interests",
+    "text": "Academic Interests\nI’m attracted to computational statistics and data science in general, to be more specific, my academic interest include:\n\nStatistical Learning (Gaussian Process, Kernel Methods)\nBiostatistics (Experiment Design, Power Analysis)\nBayesian Modelling"
+  },
+  {
+    "objectID": "index.html#other-interests",
+    "href": "index.html#other-interests",
+    "title": "About Myself",
+    "section": "Other Interests",
+    "text": "Other Interests\nI’m also interested in Phonetics, Linguistics and football/soccer(?). I can speak:\n\nEnglish\nSpanish\nGerman\nMadarin\nCantonese"
+  },
+  {
+    "objectID": "talk.html",
+    "href": "talk.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Here are some of my recent projects and presentations:\n\nA Comparison between Global and Multiple Testing Procedures\nDescription: Compare global testing procedure inspired by clinicians, under the context of multiple and sequential testing. The objects of comparison include t-test with Bonferroni’s correction, Wald Z test from linear mixed effects model and newly developed bivariate Gaussian quantile cut-off test.\nTools: R, HPC\n View Presentation \n\n\n&lt;!-- Embed or link your presentation (e.g., PDF or slides) here --&gt;\n&lt;iframe src=\"/files/Summer_Research_Poster_v3.pdf\" style=\"width:100%; height:400px;\"&gt;&lt;/iframe&gt;\n\n\n\n\nBayesian Data Analysis for Impact of Weather Conditions on Malaria Prevention Effectiveness\nDescription: Analyze the impact of weather conditions on malaria-prevention efficacy. Bayesian hierarchical modelling is involved for identifying potential confounding factors from weather conditions.\nTools: R, Stan\n View Presentation \n\n\n&lt;!-- Embed or link your presentation (e.g., PDF or slides) here --&gt;\n&lt;iframe src=\"files/Presentation Hongda Yuan.pptx\" style=\"width:100%; height:400px;\"&gt;&lt;/iframe&gt;"
   }
 ]
