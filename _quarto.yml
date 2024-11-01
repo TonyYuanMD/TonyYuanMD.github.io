@@ -1,12 +1,16 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - files
   render:
     - index.qmd
     - talk.qmd
     - contact.qmd
 
 website:
+  google-analytics: "UA-D79F5FH6KW"
+  cookie-consent: True
   title: "Hondga Yuan"
   search: true
   navbar:

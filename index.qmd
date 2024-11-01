@@ -1,7 +1,6 @@
 ---
 title: "About Myself"
 ---
-
 ## Personal Brief
 
 <img style="float:left; width:30%; margin-right:40px" src="image/myprofile.JPG" alt="Profile Photo">

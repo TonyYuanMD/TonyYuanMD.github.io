@@ -1,7 +1,6 @@
 ---
 title: "Presentation"
 ---
-
 Here are some of my recent projects and presentations:
 
 ### A Comparison between Global and Multiple Testing Procedures
@@ -17,7 +16,9 @@ Here are some of my recent projects and presentations:
 <div class="collapse" id="collapsePresentation1">
   <div class="card card-body">
     <!-- Embed or link your presentation (e.g., PDF or slides) here -->
-    <iframe src="/files/Summer_Research_Poster_v3.pdf" style="width:100%; height:400px;"></iframe>
+    <iframe src="files/Summer_Research_Poster_v3.pdf" style="width:100%; height:400px;"></iframe>
+    <embed src="files/Summer_Research_Poster_v3.pdf" width="500" height="375" 
+ type="application/pdf">
   </div>
 </div>
 
